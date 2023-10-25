@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/hello-simulator.dir/hello-simulator.cc.o -o ../../../build/examples/tutorial/ns3.37-hello-simulator-debug  -Wl,-rpath,/home/pengpeng/Ns-3/workspace-test/ns-3-dev/build/lib -Wl,--no-as-needed ../../../build/lib/libns3.37-core-debug.so -Wl,--as-needed -Wl,--no-as-needed 

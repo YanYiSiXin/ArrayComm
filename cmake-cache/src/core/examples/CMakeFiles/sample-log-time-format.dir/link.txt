@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/sample-log-time-format.dir/sample-log-time-format.cc.o -o ../../../../build/src/core/examples/ns3.37-sample-log-time-format-debug  -Wl,-rpath,/home/pengpeng/Ns-3/workspace-test/ns-3-dev/build/lib -Wl,--no-as-needed ../../../../build/lib/libns3.37-core-debug.so -Wl,--as-needed -Wl,--no-as-needed 
