@@ -244,11 +244,7 @@ CreateDirectPathBfv(const Ptr<MobilityModel>& a,
     return antennaWeights;
 }
 
-
-
-//faoweijfoawijfoiawejofiejawoifejoawijfoawijfeaw
-
-//pengpeng: get Path Bfv of each UE using different antenna Elements
+//pengpeng: get Path Bfv of each UE using different antenna Elements.
 complexVector_t
 CreateDirectPathBfv(const Ptr<MobilityModel>& a,
                     const Ptr<MobilityModel>& b,
