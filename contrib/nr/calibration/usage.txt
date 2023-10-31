@@ -1,0 +1,8 @@
+mv contrib/nr/calibration/ scratch/ 
+cd scratch/
+#need to mkdir fold "scratch/calibration/large scratch/calibration/full-config1 scratch/calibration/full-config2"
+
+./ns build
+./ns3 run calibration/three-gpp-channel-large-calibration.cc
+./ns3 run calibration/tgpp-channel-full-calibration-config1.cc
+./ns3 run calibration/tgpp-channel-full-calibration-config2.cc
